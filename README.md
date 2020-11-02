@@ -1,18 +1,19 @@
-# just-tech-news
+# Just-Tech-News
 
-# Employee Tracker
 
-This is a simple employee traking app that allows the user to track their employees, departments and roles.
+This is a simple blogging website for people in the tech industry to be able to be able to post, comment, and upvote on posts that users have created.
 
 ![img](https://github.com/cdehek/just-tech-news/blob/main/assets/demopic.PNG)
 
-<a href="https://drive.google.com/file/d/1JLnENadCdu0L-PxufKX_MxLoqmuyjnVO/view">
+<a href="https://spooky-pirate-99869.herokuapp.com/login">
 
 ### Click here to see it in action!</a>
 
 ## Getting Started
 
-To get started, simply clone this GitHub repository, or download the repo to run a local instance or follow the Heroku link to try it out.
+To get started, simply clone this GitHub repository, or download the repo to run a local instance or follow the link above ^^^ to try it out.
+
+
 
 ### Prerequisites
 
